@@ -1,0 +1,20 @@
+.Menu-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    background: grey;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+
+}
+.Menu-container div{
+  cursor: pointer;  
+}
+.specific-items{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: not-allowed !important;
+}

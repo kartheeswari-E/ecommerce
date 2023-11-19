@@ -1,0 +1,12 @@
+.bottom-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+margin-top: 40px;
+}
+.bottom-container img{
+    height: 300px;
+    width: 90%;
+    /* object-fit: contain; */
+}

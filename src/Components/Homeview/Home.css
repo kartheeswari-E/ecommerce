@@ -1,0 +1,15 @@
+.deal-of-the-day-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:20px;
+    margin-top: 30px;
+}
+.image-container-deal{
+    height: 300px;
+    width: 300px;
+    object-fit: contain;
+    cursor: pointer;
+}
